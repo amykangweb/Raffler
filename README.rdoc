@@ -1,0 +1,7 @@
+== README
+
+Ruby on Rails - Railscasts PRO #405 AngularJS (pro)
+
+with Rails 4.2.1
+
+
